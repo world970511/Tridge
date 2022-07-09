@@ -7,6 +7,6 @@
 4) 메뉴에서 Run >Run Module 선택하여 작동
 
 
-#last_question.ipynb 
+# last_question.ipynb 
 1) 파일 제일 상단에 있는 open in colab 클릭하여 이동
 2) 메뉴> 런타임 > 모두 실행
